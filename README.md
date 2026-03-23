@@ -50,18 +50,9 @@ The report follows a clear narrative flow:
 
 ---
 
-## 📦 Example
-
-See `/examples/sample-report.html`
-
----
 
 ## 🛠️ Skill Definition
 
 See [`skills.md`](./skills.md)
 
 ---
-
-## 📄 License
-
-MIT
